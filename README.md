@@ -1,0 +1,5 @@
+# codeigniter
+
+## License
+
+[MIT](./LICENSE)
